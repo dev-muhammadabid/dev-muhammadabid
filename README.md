@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=008000&random=false&width=500&height=80&lines=Hey%2C+I'm;Muhammad+Abid;I+build+things+to+change+the+world" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=008000&random=false&width=500&height=80&lines=Hey%2C+I'm;Muhammad+Abid;Design.+Develop.+Deploy." alt="Typing SVG" /></a>
 
 <h2 align="left" font=Silkscreen>About Me</h2>
 
@@ -12,7 +12,7 @@
 
 
 <h2 align="left font=Silkscreen">Connect With Me</h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-abid)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-abid)
 
 <h2 align="left font=Silkscreen">Tech Stack</h2>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
