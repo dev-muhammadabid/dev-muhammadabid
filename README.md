@@ -1,20 +1,17 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=008000&random=false&width=500&height=80&lines=Hey%2C+I'm;Muhammad+Abid;Design.+Develop.+Deploy." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=008000&random=false&width=500&height=80&lines=Hey%2C+I'm;Muhammad+Abid;Design%2C+Develop%2C+Deploy." alt="Typing SVG" /></a>
 
-<h2 align="left" font=Silkscreen>About Me</h2>
+<h2 align="left">About Me</h2>
 
-- 🌱 I’m developing Websites & Software using  Python, JavaScript, NextJS, ReactJS, MySQL, and other tools.
-
-- 🌱 👯 I’m looking to collaborate on Web Development & Software Development
-
-- 👨‍💻 My Portfolio  at [muhammadabid.me](muhammadabid.me)
-
+- 🌱 I’m developing Websites & Software using Python, JavaScript, NextJS, ReactJS, MySQL, and other tools.
+- 👯 I’m looking to collaborate on Web Development & Software Development
+- 👨‍💻 My Portfolio at [muhammadabid.me](http://muhammadabid.me)
 - 📫 How to reach me **mail.muhammadabid@gmail.com**
 
+<h2 align="left">Connect With Me</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-abid)
 
-<h2 align="left font=Silkscreen">Connect With Me</h2>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-abid)
+<h2 align="left">Tech Stack</h2>
 
-<h2 align="left font=Silkscreen">Tech Stack</h2>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,11 +33,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![LINUX](https://img.shields.io/badge/linux-%237E4798.svg?style=for-the-badge&logo=linux-project&logoColor=white)
 
-<h2 align="left font=Silkscreen">GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=dev-muhammadabid&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-muhammadabid&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-muhammadabid&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<-- [![](https://visitcount.itsvg.in/api?id=dev-muhammadabid&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
