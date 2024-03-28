@@ -4,8 +4,8 @@
 
 - 🌱 I’m developing Websites & Software using Python, JavaScript, NextJS, ReactJS, MySQL, and other tools.
 - 👯 I’m looking to collaborate on Web Development & Software Development
-- 👨‍💻 My Portfolio at [muhammadabid.me](http://muhammadabid.me)
-- 📫 How to reach me **mail.muhammadabid@gmail.com**
+- 👨‍💻 Portfolio : [muhammadabid.me](http://muhammadabid.me)
+- 📫 How to reach me : **mail.muhammadabid@gmail.com**
 
 ## Connect With Me
 
