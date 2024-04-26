@@ -3,7 +3,7 @@
 <h2 align="left">About Me</h2>
 
 - ⚙️ I’m developing Websites & Software using Python, JavaScript, NextJS, ReactJS, MySQL, and other tools.
-- 🤝 I’m looking to collaborate on Web Development & Software Development
+- 🤝 I’m looking to collaborate on Web Development & Software Development.
 - 👨‍💻 Portfolio : [muhammadabid.me](http://muhammadabid.me)
 - 📩 How to reach me : **mail.muhammadabid@gmail.com**
 
