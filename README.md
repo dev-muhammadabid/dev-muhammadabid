@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=008000&random=false&width=500&height=80&lines=Hey%2C+I'm;Muhammad+Abid;Design%2C+Develop%2C+Deploy." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=008000&random=false&width=500&height=80&lines=Hey%2C+I'm;Muhammad+Abid;Design%2C+Develop%2C+Deploy." alt="Typing SVG" /></a>
 
 <h2 align="left">About Me</h2>
 
@@ -14,7 +14,7 @@
 
 <h2 align="left">Tech Stack</h2>
 
-![Java](https://img.shields.io/badge/java-%F0F8FF.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%#F0F8FF.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
