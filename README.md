@@ -14,7 +14,7 @@
 
 <h2 align="left">Tech Stack</h2>
 
-![Java](https://img.shields.io/badge/java-EBF5FB?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/java-EBF5FB?style=for-the-badge&logo=openjdk&logoColor=blue) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
