@@ -2,10 +2,11 @@
 
 <h2 align="left">About Me</h2>
 
-- ⚙️ I’m developing Softwares using Java, Spring Boot, JavaScript, React, MySQL, and other tools.
+- 💻 I build things for the Tech.
+- ⚙️ I’m developing Software using Java, Spring Boot, JavaScript, React, MySQL, and other tools.
 - 🤝 I’m looking to collaborate on Software Development.
 - 👨‍💻 Portfolio : [muhammadabid.me](http://muhammadabid.me)
-- 📩 How to reach me : **mail.muhammadabid@gmail.com**
+- 📩 How to reach me: **mail.muhammadabid@gmail.com**
 
 ## Connect With Me
 
